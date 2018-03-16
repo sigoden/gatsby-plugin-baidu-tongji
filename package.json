@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-baidu-tongji",
   "description": "添加百度统计到 Gatsby 站点",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "sigoden <sigoden@gmail.com>",
   "bugs": {
     "url": "https://github.com/sigoden/gatsby-plugin-baidu-tongji/issues"

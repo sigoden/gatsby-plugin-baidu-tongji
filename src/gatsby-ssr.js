@@ -12,7 +12,7 @@ exports.onRenderBody = (
         dangerouslySetInnerHTML={{
           __html: `
 var _hmt = _hmt || [];
-// _hmt.push(['_setAccount', '${pluginOptions.siteid}']);
+_hmt.push(['_setAccount', '${pluginOptions.siteid}']);
 `
         }}
 			/>

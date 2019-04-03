@@ -1,12 +1,5 @@
 {
-  "sourceMaps": true,
   "presets": [
-    ["./.babelrc.js", { "browser": true }]
-  ],
-  "ignore": ["dist"],
-  "env": {
-    "production": {
-      "ignore": ["__tests__", "dist"],
-    }
-  },
+    ["babel-preset-gatsby-package", { "browser": true }]
+  ]
 }
